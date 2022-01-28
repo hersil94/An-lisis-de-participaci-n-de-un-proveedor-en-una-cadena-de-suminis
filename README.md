@@ -1,5 +1,7 @@
 # Análisis de participación de un proveedor en una cadena de suministro circular
 Análisis y modelamiento de la probabilidad de participación de un proveedor en una cadena de suministro circular.
+El repositorio contiene archivos sobre un proyecto grupal desarrollado para la asignatura "Supply chain management" para la carrera
+de ingeniería en ejecución industrial de la Universidad de Santiago de Chile, dictada por el Dr. Juan Sepúlveda.
 Este proyecto consiste en replicar el estudio "Moving Towards circular bioeconomy: Managing olive cake supply chain through contracts"
 A partir de una base de datos ficticia se hizo un análisis exploratorio para determinar las variables de mayor relevancia
 para estudiar la participación de un proveedor en una cadena de suministros circular, para posteriormente
